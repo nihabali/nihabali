@@ -111,11 +111,4 @@ I love to explore programming, software development, and AI — constantly learn
 
 ---
 
-## Currently Listening (YouTube Music)
-<p align="center">
-  [Check out my YouTube Music](https://music.youtube.com/@Nihabali01)
-</p>
-
----
-
 <p align="center"><b>Code · Create · Share · Repeat</b></p>
