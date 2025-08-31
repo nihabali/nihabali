@@ -45,20 +45,46 @@ I love to explore programming, software development, and AI — constantly learn
 ---
 
 ## Connect With Me
+
 <p align="center">
-  <a href="https://github.com/nihabali" style="text-decoration:none;color:#00FFFF;margin:0 10px;">GitHub</a> |
-  <a href="https://anilist.co/user/Nihab/" style="text-decoration:none;color:#00FFFF;margin:0 10px;">AniList</a> |
-  <a href="https://www.tiktok.com/@mellowtrax" style="text-decoration:none;color:#00FFFF;margin:0 10px;">TikTok</a> |
-  <a href="https://m.facebook.com/nihabali01/" style="text-decoration:none;color:#00FFFF;margin:0 10px;">Facebook</a> |
-  <a href="https://www.instagram.com/nihabali01" style="text-decoration:none;color:#00FFFF;margin:0 10px;">Instagram</a> |
-  <a href="https://discord.com/users/YourDiscordID" style="text-decoration:none;color:#00FFFF;margin:0 10px;">Discord</a> |
-  <a href="https://bsky.app/profile/YourBluesky" style="text-decoration:none;color:#00FFFF;margin:0 10px;">Bluesky</a> |
-  <a href="https://mastodon.social/@nihabali" style="text-decoration:none;color:#00FFFF;margin:0 10px;">Mastodon</a> |
-  <a href="https://www.reddit.com/user/nihab_ali" style="text-decoration:none;color:#00FFFF;margin:0 10px;">Reddit</a> |
-  <a href="https://x.com/nihabali01" style="text-decoration:none;color:#00FFFF;margin:0 10px;">X</a> |
-  <a href="https://t.me/nihabali01" style="text-decoration:none;color:#00FFFF;margin:0 10px;">Telegram</a> |
-  <a href="https://music.youtube.com/@Nihabali01" style="text-decoration:none;color:#00FFFF;margin:0 10px;">YouTube Music</a>
+  <a href="https://github.com/nihabali">
+    <kbd> GitHub </kbd>
+  </a>
+  <a href="https://anilist.co/user/Nihab/">
+    <kbd> AniList </kbd>
+  </a>
+  <a href="https://www.tiktok.com/@mellowtrax">
+    <kbd> TikTok </kbd>
+  </a>
+  <a href="https://m.facebook.com/nihabali01/">
+    <kbd> Facebook </kbd>
+  </a>
+  <a href="https://www.instagram.com/nihabali01">
+    <kbd> Instagram </kbd>
+  </a>
+  <a href="https://discord.com/users/YourDiscordID">
+    <kbd> Discord </kbd>
+  </a>
+  <a href="https://bsky.app/profile/YourBluesky">
+    <kbd> Bluesky </kbd>
+  </a>
+  <a href="https://mastodon.social/@nihabali">
+    <kbd> Mastodon </kbd>
+  </a>
+  <a href="https://www.reddit.com/user/nihab_ali">
+    <kbd> Reddit </kbd>
+  </a>
+  <a href="https://x.com/nihabali01">
+    <kbd> X </kbd>
+  </a>
+  <a href="https://t.me/nihabali01">
+    <kbd> Telegram </kbd>
+  </a>
+  <a href="https://music.youtube.com/@Nihabali01">
+    <kbd> YouTube Music </kbd>
+  </a>
 </p>
+
 
 ---
 
