@@ -48,15 +48,15 @@ I love to explore programming, software development, and AI — constantly learn
 <p align="center">
   <a href="https://github.com/nihabali" style="text-decoration:none;color:#00FFFF;margin:0 10px;">GitHub</a> |
   <a href="https://anilist.co/user/Nihab/" style="text-decoration:none;color:#00FFFF;margin:0 10px;">AniList</a> |
-  <a href="https://www.tiktok.com/@YourTikTok" style="text-decoration:none;color:#00FFFF;margin:0 10px;">TikTok</a> |
-  <a href="https://facebook.com/YourFacebook" style="text-decoration:none;color:#00FFFF;margin:0 10px;">Facebook</a> |
-  <a href="https://instagram.com/YourInstagram" style="text-decoration:none;color:#00FFFF;margin:0 10px;">Instagram</a> |
+  <a href="https://www.tiktok.com/@mellowtrax" style="text-decoration:none;color:#00FFFF;margin:0 10px;">TikTok</a> |
+  <a href="https://m.facebook.com/nihabali01/" style="text-decoration:none;color:#00FFFF;margin:0 10px;">Facebook</a> |
+  <a href="https://www.instagram.com/nihabali01" style="text-decoration:none;color:#00FFFF;margin:0 10px;">Instagram</a> |
   <a href="https://discord.com/users/YourDiscordID" style="text-decoration:none;color:#00FFFF;margin:0 10px;">Discord</a> |
   <a href="https://bsky.app/profile/YourBluesky" style="text-decoration:none;color:#00FFFF;margin:0 10px;">Bluesky</a> |
-  <a href="https://mastodon.social/@YourMastodon" style="text-decoration:none;color:#00FFFF;margin:0 10px;">Mastodon</a> |
-  <a href="https://reddit.com/u/YourReddit" style="text-decoration:none;color:#00FFFF;margin:0 10px;">Reddit</a> |
-  <a href="https://twitter.com/YourX" style="text-decoration:none;color:#00FFFF;margin:0 10px;">X</a> |
-  <a href="https://t.me/YourTelegram" style="text-decoration:none;color:#00FFFF;margin:0 10px;">Telegram</a> |
+  <a href="https://mastodon.social/@nihabali" style="text-decoration:none;color:#00FFFF;margin:0 10px;">Mastodon</a> |
+  <a href="https://www.reddit.com/user/nihab_ali" style="text-decoration:none;color:#00FFFF;margin:0 10px;">Reddit</a> |
+  <a href="https://x.com/nihabali01" style="text-decoration:none;color:#00FFFF;margin:0 10px;">X</a> |
+  <a href="https://t.me/nihabali01" style="text-decoration:none;color:#00FFFF;margin:0 10px;">Telegram</a> |
   <a href="https://music.youtube.com/@Nihabali01" style="text-decoration:none;color:#00FFFF;margin:0 10px;">YouTube Music</a>
 </p>
 
