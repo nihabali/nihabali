@@ -1,5 +1,5 @@
 <h1 align="center">Nihab Ali</h1>
-<h3 align="center">Bangladesh · Developer · Anime Enthusiast · Learner</h3>
+<h3 align="center">Bangladeshi · New Developer · Anime Enthusiast · Learner</h3>
 
 ---
 
