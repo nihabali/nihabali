@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "login": "nihabali",
+  "seed": "#4285F4",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Nihab Ali",
+    "subtitle": "I love hunting open‑source Android apps & software.",
+    "typing": true,
+    "avatarShape": "soft",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Bangladesh"
+      },
+      {
+        "icon": "sports_esports",
+        "label": "CODM, COC, ROBLOX"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "I'm an anime fan, dedicated teacher, and open‑source developer."
+      },
+      {
+        "icon": "code",
+        "label": "I mostly just use a terminal emulator."
+      },
+      {
+        "icon": "palette",
+        "label": "I adore Material Design with all my heart."
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          }
+        ]
+      },
+      {
+        "title": "Knowledge",
+        "items": [
+          {
+            "icon": "brand:android",
+            "label": "Android"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "Html"
+          },
+          {
+            "icon": "brand:css",
+            "label": "Css"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "simple-authenticator",
+      "Discord-Online-Forever",
+      "telegram-post",
+      "XPENC"
+    ],
+    "overrides": {},
+    "empty": "I'm just giving this a gentle try.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/1403726933069660240"
+      },
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/nihabali01"
+      },
+      {
+        "icon": "brand:bluesky",
+        "url": "https://bsky.app/profile/nihabali.bsky.social"
+      },
+      {
+        "icon": "brand:mastodon",
+        "url": "https://mastodon.social/@nihabali"
+      }
+    ],
+    "variant": "chip",
+    "fill": "outlined",
+    "card": true,
+    "shape": "soft"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://nihabali.github.io/",
+        "style": "tonal"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
