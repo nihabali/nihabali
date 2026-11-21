@@ -1,25 +1,25 @@
 {
- "key": "44212b76",
+ "key": "7aeb6d1a",
  "stars": 2,
- "contributions": 37,
- "repos": 13,
+ "contributions": 38,
+ "repos": 14,
  "followers": 10,
  "languages": [
   [
    "HTML",
-   147495
+   151999
   ],
   [
    "CSS",
-   13554
+   26202
+  ],
+  [
+   "JavaScript",
+   22403
   ],
   [
    "Python",
    12516
-  ],
-  [
-   "JavaScript",
-   8245
   ]
  ],
  "days": [
@@ -129,14 +129,14 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 21,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 2
  },
  "pins": [
@@ -176,6 +176,15 @@
    "fork": false,
    "stars": 1,
    "language": null,
+   "topics": []
+  },
+  {
+   "name": "portfolio-v2",
+   "url": "https://github.com/nihabali/portfolio-v2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
    "topics": []
   },
   {
